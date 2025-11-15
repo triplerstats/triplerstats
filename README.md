@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @triplerstats
-- 👀 I’m interested in data science and tend to work on side projects in sports analytics when I have time.
+- 👀 I’m interested in data science and statistics. I tend to work on side projects related to sports when I have some free time.
 - 📫 How to reach me: -
 
 <!---
