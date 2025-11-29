@@ -1,5 +1,4 @@
 - My name is Rich, but I go by @triplerstats here.
-- My background is in statistics (Master's from NC State, go Pack!) and mathematics/economics (Northeastern, go Huskies). Clearly I like schools with husky/wolf mascots.
 - I tend to work on side projects related to sports when I have some free time. Most of my side projects are different NFL analysis ideas that I have.
 
 <!---
